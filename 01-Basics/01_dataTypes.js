@@ -8,3 +8,4 @@ let num = null //null value
 //symbol=> unique
 
 console.log(typeof"Shubham");
+
